@@ -217,10 +217,3 @@ equivalent. Otherwise, a ValueError is raised.
     >>> print(lazy_matrix_mul(m_a, m_b))
     Traceback (most recent call last):
     ValueError: setting an array element with a sequence.
-
-
-+++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++
-AFTER CREATING THE ABOVE FILES IN THE /test/ folder, GO AHEAD AND CREATE THE FILES BELOW DIRECTLY inside the 0x07-python-test_driven_development directory
-+++++++++++++++++++++++++++++++++++
-+++++++++++++++++++++++++++++++++++
